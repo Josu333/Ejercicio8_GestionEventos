@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Usuario1">
+        <item>admin</item>
+        <item>123</item>
+        <item>A</item>
+    </string-array>
+    <string-array name="Usuario2">
+        <item>usu</item>
+        <item>456</item>
+        <item>U</item>
+    </string-array>
+</resources>
